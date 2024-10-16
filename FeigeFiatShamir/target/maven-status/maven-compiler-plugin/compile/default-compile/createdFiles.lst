@@ -1,0 +1,7 @@
+org\suai\protocol\Eva.class
+org\suai\protocol\Bob.class
+org\suai\protocol\Application.class
+org\suai\protocol\Utils.class
+org\suai\protocol\Authentication.class
+org\suai\protocol\Alice.class
+org\suai\protocol\TrustCenter.class
